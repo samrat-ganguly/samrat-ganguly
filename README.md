@@ -5,8 +5,6 @@
 
 <img align="right" alt="CODING" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento_still_2x.gif?compress=1&resize=400x300">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samrat-ganguly&label=Profile%20views&color=0e75b6&style=flat" alt="samrat-ganguly" /> </p>
-
 - 🌱 I’m currently learning **React and GSAP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/samrat-ganguly](https://github.com/samrat-ganguly)
